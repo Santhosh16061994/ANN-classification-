@@ -8,3 +8,8 @@ In the context of classification, ANNs are trained to learn patterns and relatio
 Once trained, an ANN can be used to classify new, unseen instances into one of the learned classes. The input features of the new instance are fed into the network, and the output layer produces a probability distribution over the possible classes. The class with the highest probability is chosen as the predicted class for the input instance.
 
 ANN classification has been successfully applied in various domains, including image recognition, natural language processing, spam detection, medical diagnosis, and many others. The effectiveness of ANN classification depends on factors such as the network architecture, the amount and quality of training data, and the choice of activation functions and learning algorithms.
+
+
+Here we are using the IRIS dataset for understanding how to use ANN for classification problems for real-world use cases.
+
+Happy Learning...........................
