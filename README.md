@@ -11,5 +11,6 @@ ANN classification has been successfully applied in various domains, including i
 
 
 Here we are using the IRIS dataset for understanding how to use ANN for classification problems for real-world use cases.
+Also, i have added a Diabetes dataset with a solution via jupyter notebook
 
 Happy Learning...........................
